@@ -7,7 +7,7 @@ const products = [
     id: 1,
     name: "Precision Gear Unit",
     sub: "自動車トランスミッション用",
-    image: "https://picsum.photos/id/10/800/800?grayscale",
+    image: "/images/product-1.png",
     precision: "±0.002",
     stats: "HARDNESS: 60HRC"
   },
@@ -15,7 +15,7 @@ const products = [
     id: 2,
     name: "Industrial Piston Rod",
     sub: "建設機械向け高耐久シャフト",
-    image: "https://picsum.photos/id/20/800/800?grayscale",
+    image: "/images/product-2.png",
     precision: "±0.005",
     stats: "SMOOTHNESS: Ra 0.1"
   },
@@ -23,7 +23,7 @@ const products = [
     id: 3,
     name: "Medical Micro Valve",
     sub: "精密医療機器用ステンレス部品",
-    image: "https://picsum.photos/id/30/800/800?grayscale",
+    image: "/images/product-3.png",
     precision: "±0.001",
     stats: "MATERIAL: SUS316L"
   }
